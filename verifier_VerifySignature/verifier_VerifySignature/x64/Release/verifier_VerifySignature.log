@@ -1,0 +1,16 @@
+﻿Сборка начата 23.10.2015 14:58:38.
+     1>Проект "C:\Users\003-0823\Documents\Visual Studio 2013\Projects\verifier_VerifySignature\verifier_VerifySignature\verifier_VerifySignature.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D VERIFIER_VERIFYSIGNATURE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt verifier_VerifySignature.cpp
+         verifier_VerifySignature.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\003-0823\Documents\Visual Studio 2013\Projects\verifier_VerifySignature\x64\Release\verifier_VerifySignature.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\003-0823\Documents\Visual Studio 2013\Projects\verifier_VerifySignature\x64\Release\verifier_VerifySignature.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\003-0823\Documents\Visual Studio 2013\Projects\verifier_VerifySignature\x64\Release\verifier_VerifySignature.lib" /MACHINE:X64 /DLL x64\Release\verifier_VerifySignature.obj
+            Создается библиотека C:\Users\003-0823\Documents\Visual Studio 2013\Projects\verifier_VerifySignature\x64\Release\verifier_VerifySignature.lib и объект C:\Users\003-0823\Documents\Visual Studio 2013\Projects\verifier_VerifySignature\x64\Release\verifier_VerifySignature.exp
+         Создание кода
+         Создание кода завершено
+         verifier_VerifySignature.vcxproj -> C:\Users\003-0823\Documents\Visual Studio 2013\Projects\verifier_VerifySignature\x64\Release\verifier_VerifySignature.dll
+     1>Сборка проекта "C:\Users\003-0823\Documents\Visual Studio 2013\Projects\verifier_VerifySignature\verifier_VerifySignature\verifier_VerifySignature.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.71
